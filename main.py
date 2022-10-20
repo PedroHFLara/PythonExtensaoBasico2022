@@ -1,3 +1,10 @@
 # Meu primeiro projeto Python!!!
 
-print("Hello World")
+print("Alo Mundo")
+
+nome = "Pedro Lara"
+print(nome)
+
+idade = 19
+print(idade)
+
