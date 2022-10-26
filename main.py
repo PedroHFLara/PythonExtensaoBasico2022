@@ -1,10 +1,7 @@
-# Meu primeiro projeto Python!!!
 
-print("Alo Mundo")
+# comando input(): quero permitir que o usuário digite algo...
+nome = input("Digite seu nome: ")
 
-nome = "Pedro Lara"
+#comando de saída / exibir na tela
 print(nome)
-
-idade = 19
-print(idade)
 
