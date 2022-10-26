@@ -3,5 +3,9 @@
 nome = input("Digite seu nome: ")
 
 #comando de saída / exibir na tela
-print(nome)
+print(f"Boa noite, seu nome é {nome}")
+
+idade = input("Qual a sua idade? ")
+
+print(f"Sua idade é: {idade}")
 
