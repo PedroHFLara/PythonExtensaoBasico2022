@@ -46,6 +46,3 @@ print("\n")
 
 for valor in valores:
   print(f"O imposto {valor} é {calcular_imposto_aliquota(valor, 10)}")  
-
-
-
