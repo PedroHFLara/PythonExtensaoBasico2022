@@ -9,3 +9,4 @@ elif(nota >= 6 and nota < 10):
   print(f"{nome}, Recuperação.")
 else:
   print(f"{nome}, Reprovado.")
+  

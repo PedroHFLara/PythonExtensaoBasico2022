@@ -22,4 +22,3 @@ if idade >= 18 and genero == "M":
   print("Você prestou ou vai prestar o serviço militar obrigatário.")
 else:
   print("Você não precisa prestar serviço militar obrigatório.")
-
